@@ -1,0 +1,89 @@
+
+RQ2 SUMMARY STATISTICS (Fixed — Global Depth Distribution)
+
+Total base models (in-deg=0, out-deg>0):   30,170
+Weakly connected components:               27,044
+Largest component:                         70,437 nodes
+
+GLOBAL depth distribution (all 30,170 base models, deduplicated):
+  Total nodes assigned a depth:  164,197
+  Max depth in graph:            39
+  AVG depth (weighted):           1.54
+  Nodes at depth 1:              100,448
+  Nodes at depth 2:              46,151
+  Nodes at depth 3+:             17,598
+  % at depth 1:                  61.2%
+  % at depth 2:                  28.1%
+  % at depth 3+:                 10.7%
+
+Global depth distribution table:
+ depth  model_count  cumulative_pct
+     1       100448            61.2
+     2        46151            89.3
+     3        13957            97.8
+     4         2599            99.4
+     5          543            99.7
+     6          180            99.8
+     7          109            99.9
+     8           49            99.9
+     9           35            99.9
+    10           26            99.9
+    11           20           100.0
+    12           26           100.0
+    13           14           100.0
+    14            7           100.0
+    15            7           100.0
+    16            2           100.0
+    17            2           100.0
+    18            1           100.0
+    19            1           100.0
+    20            1           100.0
+    21            1           100.0
+    22            1           100.0
+    23            1           100.0
+    24            1           100.0
+    25            1           100.0
+    26            1           100.0
+    27            1           100.0
+    28            1           100.0
+    29            1           100.0
+    30            1           100.0
+    31            1           100.0
+    32            1           100.0
+    33            1           100.0
+    34            1           100.0
+    35            1           100.0
+    36            1           100.0
+    37            1           100.0
+    38            1           100.0
+    39            1           100.0
+
+Per-model stats (top 100 base models by direct derivatives):
+  Max depth overall:    17
+  Avg max depth:        5.73
+  Median max depth:     4.0
+
+Top 10 deepest lineages:
+                                model_id  family  max_depth  total_descendants
+     meta-llama/Meta-Llama-3-8B-Instruct   LLaMA         17               3283
+      mistralai/Mistral-7B-Instruct-v0.2 Mistral         17               1408
+               unsloth/Meta-Llama-3.1-8B   LLaMA         15                483
+                   openai-community/gpt2     GPT         15               1794
+                       google/gemma-2-9b   Gemma         15               2008
+deepseek-ai/DeepSeek-R1-Distill-Qwen-14B    Qwen         15                441
+                        Qwen/Qwen2.5-14B    Qwen         15               1901
+               mistralai/Mistral-7B-v0.1 Mistral         14               4168
+         WizardLMTeam/WizardMath-7B-V1.1   Other         13                612
+                 meta-llama/Llama-3.1-8B   LLaMA         13               6613
+
+Family-level depth stats:
+          base_model_count  avg_max_depth  max_max_depth  avg_descendants  total_descendants
+family                                                                                      
+LLaMA                   20           6.30             17          1300.75              26015
+Mistral                  9           8.00             17          1053.56               9482
+GPT                      5           6.00             15           895.60               4478
+Gemma                   15           4.13             15           564.87               8473
+Qwen                    29           6.14             15          1523.55              44183
+Other                   14           5.64             13           449.43               6292
+Phi                      7           3.43              5           326.00               2282
+DeepSeek                 1           2.00              2           237.00                237

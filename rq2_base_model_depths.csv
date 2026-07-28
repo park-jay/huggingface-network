@@ -1,0 +1,101 @@
+model_id,creator,family,downloads,created_at,direct_derivatives,total_descendants,max_depth,avg_depth,depth_1_count,depth_2_count,depth_3_count,depth_4plus_count
+meta-llama/Meta-Llama-3-8B-Instruct,meta-llama,LLaMA,1395075,2024-04-17 09:35:12+00:00,2028,3283,17,2.41,2028,475,151,629
+mistralai/Mistral-7B-Instruct-v0.2,mistralai,Mistral,2874969,2023-12-11 13:18:44+00:00,889,1408,17,2.47,889,250,52,217
+unsloth/Meta-Llama-3.1-8B,unsloth,LLaMA,26828,2024-07-23 15:56:03+00:00,195,483,15,4.57,195,38,19,231
+openai-community/gpt2,openai-community,GPT,10803658,2022-03-02 23:29:04+00:00,1713,1794,15,1.1,1713,63,5,13
+google/gemma-2-9b,google,Gemma,43764,2024-06-24 08:10:30+00:00,217,2008,15,4.64,217,581,272,938
+deepseek-ai/DeepSeek-R1-Distill-Qwen-14B,deepseek-ai,Qwen,741961,2025-01-20 09:18:27+00:00,189,441,15,2.01,189,179,47,26
+Qwen/Qwen2.5-14B,Qwen,Qwen,122136,2024-09-15 12:18:18+00:00,227,1901,15,2.85,227,677,743,254
+mistralai/Mistral-7B-v0.1,mistralai,Mistral,539927,2023-09-20 13:03:50+00:00,1499,4168,14,2.19,1499,1618,549,502
+WizardLMTeam/WizardMath-7B-V1.1,WizardLMTeam,Other,16406,2023-12-19 08:09:17+00:00,120,612,13,5.41,120,58,13,421
+meta-llama/Llama-3.1-8B,meta-llama,LLaMA,1264103,2024-07-14 22:20:15+00:00,1434,6613,13,2.35,1434,2989,1535,655
+Sao10K/L3-8B-Stheno-v3.2,Sao10K,Other,4587,2024-06-05 10:30:57+00:00,131,696,13,4.1,131,148,142,275
+liminerity/M7-7b,liminerity,Other,9022,2024-03-07 20:43:26+00:00,127,1109,12,2.9,127,409,405,168
+Qwen/Qwen3-4B-Instruct-2507,Qwen,Qwen,3795726,2025-08-05 10:58:03+00:00,6445,7540,12,1.17,6445,962,109,24
+meta-llama/Meta-Llama-3-8B,meta-llama,LLaMA,3091668,2024-04-17 09:35:16+00:00,636,2915,11,2.78,636,1373,279,627
+Qwen/Qwen2.5-0.5B,Qwen,Qwen,1530500,2024-09-15 12:15:39+00:00,457,4677,11,2.13,457,3221,970,29
+mistralai/Mistral-Nemo-Base-2407,unknown,Mistral,0,,129,1050,11,3.05,129,304,277,340
+Qwen/Qwen3-4B-Thinking-2507,Qwen,Qwen,514810,2025-08-05 11:02:27+00:00,250,566,10,1.83,250,215,73,28
+mistralai/Mistral-Nemo-Instruct-2407,unknown,Mistral,0,,251,1075,10,2.69,251,299,241,284
+Qwen/Qwen2.5-7B,Qwen,Qwen,1990953,2024-09-15 12:17:40+00:00,794,7763,9,2.28,794,4469,2091,409
+deepseek-ai/DeepSeek-R1-Distill-Llama-8B,deepseek-ai,LLaMA,857066,2025-01-20 09:09:42+00:00,387,671,9,1.7,387,218,20,46
+Qwen/Qwen3-8B-Base,Qwen,Qwen,1868378,2025-04-28 05:03:58+00:00,339,2367,9,2.03,339,1687,297,44
+meta-llama/Llama-3.1-70B,meta-llama,LLaMA,76730,2024-07-14 22:23:12+00:00,105,2407,8,2.67,105,999,966,337
+Qwen/Qwen2.5-3B,Qwen,Qwen,346507,2024-09-15 12:17:03+00:00,368,2529,8,2.22,368,1333,750,78
+Qwen/Qwen2.5-1.5B,Qwen,Qwen,581035,2024-09-15 12:16:50+00:00,332,3255,8,2.23,332,1943,884,96
+Qwen/Qwen3-4B-Base,Qwen,Qwen,1027499,2025-04-28 05:04:27+00:00,223,2001,8,2.18,223,1328,353,97
+google/gemma-3-12b-it,unknown,Gemma,0,,159,242,8,1.71,159,57,7,19
+meta-llama/Llama-3.2-1B-Instruct,meta-llama,LLaMA,4100330,2024-09-18 15:12:47+00:00,1059,1858,7,1.61,1059,601,104,94
+meta-llama/Llama-3.2-1B,meta-llama,LLaMA,1844509,2024-09-18 15:03:14+00:00,784,1152,7,1.52,784,251,49,68
+meta-llama/Llama-3.2-3B-Instruct,meta-llama,LLaMA,4414441,2024-09-18 15:19:20+00:00,1054,2306,7,1.83,1054,851,150,251
+Qwen/Qwen2.5-32B,Qwen,Qwen,1611420,2024-09-15 12:18:33+00:00,223,2544,7,2.62,223,899,1060,362
+HuggingFaceTB/SmolLM2-135M,HuggingFaceTB,Other,817672,2024-10-31 00:46:04+00:00,826,1201,7,1.38,826,326,32,17
+deepseek-ai/DeepSeek-R1-Distill-Qwen-7B,deepseek-ai,Qwen,613625,2025-01-20 09:16:14+00:00,388,542,6,1.42,388,112,20,22
+Qwen/Qwen3-0.6B-Base,Qwen,Qwen,222793,2025-04-28 05:09:54+00:00,519,1774,6,1.86,519,1033,186,36
+google/gemma-3-1b-pt,google,Gemma,47341,2025-02-20 21:21:06+00:00,135,1284,6,2.51,135,462,604,83
+openai/gpt-oss-20b,openai,GPT,7441873,2025-08-04 22:33:29+00:00,326,922,6,1.71,326,553,30,13
+Sao10K/L3.1-70B-Hanami-x1,unknown,Other,0,,139,389,5,2.12,139,125,72,53
+Qwen/Qwen3-1.7B-Base,Qwen,Qwen,336333,2025-04-28 05:05:55+00:00,253,1191,5,2.0,253,704,218,16
+TheDrummer/Anubis-70B-v1,unknown,Other,0,,125,393,5,2.04,125,160,83,25
+microsoft/phi-4,microsoft,Phi,995087,2024-12-11 11:47:29+00:00,193,652,5,1.77,193,419,36,4
+SicariusSicariiStuff/Negative_LLAMA_70B,unknown,LLaMA,0,,309,777,5,1.91,309,278,143,47
+unsloth/Qwen3-8B-unsloth-bnb-4bit,unknown,Qwen,0,,188,222,5,1.24,188,23,4,7
+OpenPipe/mistral-ft-optimized-1218,OpenPipe,Mistral,927,2023-12-17 14:30:06+00:00,126,138,5,1.13,126,9,1,2
+Sao10K/L3-70B-Euryale-v2.1,Sao10K,Other,94,2024-06-11 19:27:49+00:00,110,328,5,2.01,110,125,75,18
+microsoft/Phi-3.5-mini-instruct,microsoft,Phi,619774,2024-08-16 20:48:26+00:00,234,439,5,1.55,234,179,17,9
+allenai/Olmo-3-1025-7B,allenai,Other,98598,2025-09-12 19:24:57+00:00,142,245,5,2.04,142,28,6,69
+deepseek-ai/DeepSeek-R1-Distill-Qwen-32B,deepseek-ai,Qwen,938100,2025-01-20 09:19:00+00:00,161,287,4,1.55,161,95,29,2
+google/gemma-3-270m,google,Gemma,83352,2025-08-05 18:50:31+00:00,142,1544,4,2.15,142,1048,341,13
+Qwen/Qwen2-0.5B,Qwen,Qwen,468709,2024-05-31 08:38:11+00:00,104,321,4,1.71,104,206,10,1
+google/gemma-2-2b,google,Gemma,276472,2024-07-16 08:07:29+00:00,204,882,4,1.91,204,563,106,9
+TheDrummer/Fallen-Llama-3.3-R1-70B-v1,unknown,LLaMA,0,,136,362,4,1.93,136,134,72,20
+Qwen/Qwen2.5-72B,Qwen,Qwen,53362,2024-09-15 12:18:46+00:00,102,673,4,2.41,102,211,339,21
+HuggingFaceTB/SmolLM2-360M,HuggingFaceTB,Other,48762,2024-10-31 00:43:11+00:00,103,339,4,1.87,103,178,57,1
+mistralai/Mistral-7B-v0.3,unknown,Mistral,0,,215,413,4,1.51,215,187,10,1
+Qwen/Qwen3-32B,Qwen,Qwen,5028826,2025-04-27 03:52:59+00:00,516,635,4,1.22,516,104,11,4
+deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B,deepseek-ai,Qwen,982364,2025-01-20 09:04:18+00:00,663,887,4,1.26,663,214,9,1
+meta-llama/Llama-3.2-3B,meta-llama,LLaMA,1564575,2024-09-18 15:23:48+00:00,411,621,4,1.38,411,187,20,3
+mistralai/Mistral-7B-Instruct-v0.3,unknown,Mistral,0,,512,841,4,1.44,512,292,35,2
+meta-llama/Llama-2-7b-hf,meta-llama,LLaMA,848286,2023-07-13 16:16:13+00:00,546,707,4,1.26,546,144,14,3
+microsoft/phi-2,microsoft,Phi,1700277,2023-12-13 21:19:59+00:00,273,338,4,1.24,273,50,13,2
+distilbert/distilgpt2,distilbert,GPT,2336651,2022-03-02 23:29:04+00:00,1358,1380,4,1.02,1358,18,3,1
+BioMistral/BioMistral-7B,BioMistral,Mistral,96220,2024-02-14 11:33:32+00:00,210,248,4,1.19,210,31,4,3
+mistralai/Mixtral-8x7B-v0.1,unknown,Mistral,0,,103,141,3,1.28,103,37,1,0
+unsloth/gemma-2-2b-it,unsloth,Gemma,2761,2024-07-31 03:43:21+00:00,104,142,3,1.29,104,35,3,0
+TinyLlama/TinyLlama-1.1B-Chat-v1.0,TinyLlama,LLaMA,2117151,2023-12-30 06:27:30+00:00,518,583,3,1.12,518,59,6,0
+Qwen/Qwen3-30B-A3B-Instruct-2507,Qwen,Qwen,1161127,2025-07-28 07:31:27+00:00,139,270,3,1.53,139,118,13,0
+Qwen/Qwen2-7B,Qwen,Qwen,62694,2024-06-04 13:35:27+00:00,112,374,3,1.76,112,238,24,0
+NousResearch/Llama-2-7b-chat-hf,NousResearch,LLaMA,24226,2023-07-18 19:45:53+00:00,114,122,3,1.07,114,7,1,0
+Salesforce/Llama-xLAM-2-8b-fc-r,Salesforce,LLaMA,64086,2025-03-27 21:52:47+00:00,115,121,3,1.06,115,5,1,0
+google/gemma-7b,google,Gemma,74166,2024-02-08 22:36:43+00:00,355,467,3,1.25,355,105,7,0
+microsoft/Phi-3-mini-4k-instruct,microsoft,Phi,926295,2024-04-22 16:18:17+00:00,308,328,3,1.06,308,19,1,0
+google/gemma-3-4b-it,unknown,Gemma,0,,200,258,3,1.23,200,57,1,0
+google/gemma-2b,google,Gemma,176789,2024-02-08 08:11:26+00:00,255,280,3,1.09,255,24,1,0
+unsloth/Qwen3-0.6B,unknown,Qwen,0,,190,198,3,1.06,190,4,4,0
+openai-community/gpt2-medium,openai-community,GPT,716022,2022-03-02 23:29:04+00:00,189,198,3,1.05,189,8,1,0
+EleutherAI/pythia-70m,unknown,Other,0,,221,230,3,1.04,221,8,1,0
+microsoft/Phi-4-mini-instruct,microsoft,Phi,309132,2025-02-19 01:00:58+00:00,182,225,3,1.2,182,42,1,0
+Qwen/Qwen3-Coder-30B-A3B-Instruct,Qwen,Qwen,1015077,2025-07-31 07:04:55+00:00,176,322,3,1.5,176,131,15,0
+Qwen/Qwen1.5-0.5B,Qwen,Qwen,30604,2024-01-22 16:30:10+00:00,164,174,3,1.07,164,8,2,0
+Qwen/Qwen1.5-1.8B,Qwen,Qwen,21504,2024-01-22 16:53:32+00:00,150,163,3,1.13,150,4,9,0
+Qwen/Qwen2-1.5B-Instruct,Qwen,Qwen,2858373,2024-06-03 09:08:12+00:00,152,163,3,1.07,152,10,1,0
+google/functiongemma-270m-it,google,Gemma,37339,2025-10-08 17:33:31+00:00,232,278,3,1.17,232,44,2,0
+unsloth/Qwen3-4B,unknown,Qwen,0,,239,272,2,1.12,239,33,0,0
+unsloth/gemma-3-4b-it-unsloth-bnb-4bit,unknown,Gemma,0,,251,254,2,1.01,251,3,0,0
+EleutherAI/pythia-160m,EleutherAI,Other,2553971,2023-02-08 19:25:46+00:00,218,220,2,1.01,218,2,0,0
+EleutherAI/gpt-neo-125m,EleutherAI,GPT,307096,2022-03-02 23:29:04+00:00,182,184,2,1.01,182,2,0,0
+unsloth/llama-3-8b,unsloth,LLaMA,6372,2024-04-18 16:47:06+00:00,117,120,2,1.02,117,3,0,0
+vectorzhou/gemma-2-2b-it-alpaca-cleaned-SFT,vectorzhou,Gemma,981,2025-09-06 22:01:28+00:00,234,236,2,1.01,234,2,0,0
+meta-llama/Llama-2-7b-chat-hf,meta-llama,LLaMA,355352,2023-07-13 16:45:23+00:00,497,526,2,1.06,497,29,0,0
+microsoft/Phi-3-mini-128k-instruct,microsoft,Phi,263795,2024-04-22 16:26:23+00:00,158,161,2,1.02,158,3,0,0
+deepseek-ai/deepseek-coder-1.3b-base,deepseek-ai,DeepSeek,27081,2023-10-28 07:42:03+00:00,144,237,2,1.39,144,93,0,0
+google/gemma-3-27b-it,unknown,Gemma,0,,264,300,2,1.12,264,36,0,0
+microsoft/phi-1_5,microsoft,Phi,120026,2023-09-10 04:03:46+00:00,137,139,2,1.01,137,2,0,0
+EleutherAI/pythia-410m,EleutherAI,Other,72554,2023-02-13 18:45:00+00:00,200,204,2,1.02,200,4,0,0
+unsloth/gemma-3-12b-it-unsloth-bnb-4bit,unknown,Gemma,0,,144,145,2,1.01,144,1,0,0
+google/gemma-2b-it,google,Gemma,59320,2024-02-08 13:23:59+00:00,141,153,2,1.08,141,12,0,0
+lmsys/vicuna-7b-v1.5,lmsys,Other,2822404,2023-07-29 04:42:33+00:00,99,100,2,1.01,99,1,0,0
+unsloth/qwen3-4b-instruct-2507-unsloth-bnb-4bit,unknown,Qwen,0,,131,131,1,1.0,131,0,0,0
+meta-llama/Meta-Llama-3.1-8B-Instruct,unknown,LLaMA,0,,280,280,1,1.0,280,0,0,0
+codellama/CodeLlama-7b-Instruct-hf,codellama,LLaMA,163021,2023-08-24 16:33:37+00:00,108,108,1,1.0,108,0,0,0
+TIGER-Lab/MAmmoTH2-7B,TIGER-Lab,Other,11,2024-05-06 14:09:02+00:00,226,226,1,1.0,226,0,0,0
